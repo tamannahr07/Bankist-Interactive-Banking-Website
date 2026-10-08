@@ -97,7 +97,7 @@ Bankist-Website/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Bankist-Website.git
+git clone https://github.com/tamannahr07/Bankist-Website.git
 ```
 
 ### 2. Navigate to the project
@@ -137,14 +137,6 @@ The project can be further extended with backend functionality, authentication, 
 
 This is a **frontend demonstration project**. It does not perform real banking transactions, process financial information, or provide actual banking services.
 
-## Author
-
-**Harsh**
-
-* GitHub: [@HarshXIndian](https://github.com/HarshXIndian)
-* LinkedIn: Add your LinkedIn profile link here
-
----
 
 ### If you found this project useful
 
